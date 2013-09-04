@@ -56,6 +56,17 @@
             "emails": ["gareth@unitedstack.com", "academicgareth@gmail.com"]
         },
         {
+            "launchpad_id": "aditirav",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Aditi Raveesh",
+            "emails": ["aditi.raveesh@gmail.com", "aditirav@thoughtworks.com"]
+        },
+        {
             "launchpad_id": "adriansmith",
             "companies": [
                 {
